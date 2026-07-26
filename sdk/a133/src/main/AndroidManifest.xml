@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <service android:name="io.github.stevep99.scouty.motors.sdk.SdkA133Service"
+            android:stopWithTask="true"/>
+    </application>
+
+</manifest>
