@@ -2,6 +2,10 @@
 
 Scouty is an AI robot companion Android app for children. It understands spoken commands and answers back by voice while driving a differential-drive robot.
 
+| ![Scouty Face screen](docs/screenshot_1.png) | ![Scouty Movement screen](docs/screenshot_2.png) |
+|----------------------------------------------|--------------------------------------------------|
+| Face Screen                                  | Movement Screen                                  |
+
 ## Features
 
 - **Voice control** via Android's built-in speech recognizer — say "turn left", "go forward", "dance", or "wiggle"
